@@ -1,7 +1,7 @@
 # botanic_bazaar
 
-The App is a problem statement of a competition which is to create an app for the company naed **Botanic Bazaar**
-The company is basically an online platform for buying house-plants/saplings.
+The App is a problem statement of a competition which is to create an app for the company naed **Botanic Bazaar**<br>
+The company is basically an online platform for buying house-plants/saplings.<br>
 Basically , Flipkart/Amazon for plants.
 
 ## Getting Started
